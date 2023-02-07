@@ -1,3 +1,3 @@
-# Factory Pattern
+# Abstract Factory Pattern
 ## Diagram
 ![factoryPatternDiagram](diagram.png)
