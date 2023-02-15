@@ -1,4 +1,4 @@
-package com.designPatterns.SingletonPattern;
+package com.designPatterns.CreationalPatterns.SingletonPattern;
 
 public class EagerSingleton {
     private static EagerSingleton instance = new EagerSingleton();

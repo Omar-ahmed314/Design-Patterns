@@ -1,4 +1,4 @@
-package com.designPatterns.SingletonPattern;
+package com.designPatterns.CreationalPatterns.SingletonPattern;
 
 public class SynchronizedApproach {
     private static SynchronizedApproach instance = null;

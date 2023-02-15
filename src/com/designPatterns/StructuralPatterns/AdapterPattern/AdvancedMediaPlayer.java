@@ -1,4 +1,4 @@
-package com.designPatterns.AdapterPattern;
+package com.designPatterns.StructuralPatterns.AdapterPattern;
 
 public interface AdvancedMediaPlayer {
     void loadFileName(String fileName) throws Exception;

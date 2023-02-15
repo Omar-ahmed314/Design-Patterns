@@ -1,4 +1,4 @@
-package com.designPatterns.PrototypePattern;
+package com.designPatterns.CreationalPatterns.PrototypePattern;
 
 abstract class BasicCar implements Cloneable {
     private String name;

@@ -1,4 +1,4 @@
-package com.designPatterns.AbstractFactoryMethod;
+package com.designPatterns.CreationalPatterns.AbstractFactoryMethod;
 
 class AbstractFactory {
     public static FactoryMethod getFactory(String factoryType) {

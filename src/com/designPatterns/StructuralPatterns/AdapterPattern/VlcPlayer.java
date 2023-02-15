@@ -1,4 +1,4 @@
-package com.designPatterns.AdapterPattern;
+package com.designPatterns.StructuralPatterns.AdapterPattern;
 
 public class VlcPlayer implements AdvancedMediaPlayer{
     private String fileName;

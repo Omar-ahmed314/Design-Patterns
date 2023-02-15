@@ -1,4 +1,4 @@
-package com.designPatterns.AdapterPattern;
+package com.designPatterns.StructuralPatterns.AdapterPattern;
 
 public class AdapterClient {
     public static void main(String[] args) {

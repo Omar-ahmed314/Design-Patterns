@@ -1,4 +1,4 @@
-package com.designPatterns.AbstractFactoryMethod;
+package com.designPatterns.CreationalPatterns.AbstractFactoryMethod;
 
 // abstract class for the second product
 abstract class Shape {

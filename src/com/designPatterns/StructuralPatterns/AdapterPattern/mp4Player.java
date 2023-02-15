@@ -1,4 +1,4 @@
-package com.designPatterns.AdapterPattern;
+package com.designPatterns.StructuralPatterns.AdapterPattern;
 
 public class mp4Player implements AdvancedMediaPlayer{
     private String fileName;

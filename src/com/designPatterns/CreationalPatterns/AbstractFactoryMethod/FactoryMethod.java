@@ -1,4 +1,4 @@
-package com.designPatterns.AbstractFactoryMethod;
+package com.designPatterns.CreationalPatterns.AbstractFactoryMethod;
 
 // Abstract factory
 interface FactoryMethod {

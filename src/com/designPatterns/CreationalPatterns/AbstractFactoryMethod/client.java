@@ -1,4 +1,4 @@
-package com.designPatterns.AbstractFactoryMethod;
+package com.designPatterns.CreationalPatterns.AbstractFactoryMethod;
 
 public class client {
     public static void main(String[] args) {

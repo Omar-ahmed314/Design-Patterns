@@ -1,4 +1,4 @@
-package com.designPatterns.FactoryPattern;
+package com.designPatterns.CreationalPatterns.FactoryPattern;
 
 abstract class Shape {
     public abstract void draw();
