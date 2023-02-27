@@ -1,4 +1,4 @@
-package com.designPatterns.BehavioralPatterns.IteratorPattern;
+package com.designPatterns.BehavioralPatterns.Iterator;
 
 public interface Collection {
     Iterator createIterator();

@@ -1,4 +1,4 @@
-package com.designPatterns.BehavioralPatterns.IteratorPattern;
+package com.designPatterns.BehavioralPatterns.Iterator;
 
 public class Notification {
     private String text;

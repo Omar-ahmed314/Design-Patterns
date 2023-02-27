@@ -1,4 +1,4 @@
-package com.designPatterns.BehavioralPatterns.IteratorPattern;
+package com.designPatterns.BehavioralPatterns.Iterator;
 
 public class ArrayCollection implements Collection{
     private final int MAX_SIZE = 10;

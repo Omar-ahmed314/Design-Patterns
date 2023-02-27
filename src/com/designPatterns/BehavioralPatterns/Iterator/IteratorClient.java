@@ -1,4 +1,4 @@
-package com.designPatterns.BehavioralPatterns.IteratorPattern;
+package com.designPatterns.BehavioralPatterns.Iterator;
 
 public class IteratorClient {
     public static void main(String[] args) {
