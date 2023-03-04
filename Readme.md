@@ -47,3 +47,10 @@ common patterns:
 - [Strategy](src/com/designPatterns/BehavioralPatterns/Strategy)
 - [Template](src/com/designPatterns/BehavioralPatterns/Template)
 - [Visitor](src/com/designPatterns/BehavioralPatterns/Visitor)
+
+## References
+- [Design Patterns in object oriented programming](https://youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+- [Creational Design Patterns](https://youtube.com/playlist?list=PLnqAlQ9hFYdewk9UKGBcHLulZNUBpNSKJ)
+- [Derek Banas](https://youtube.com/playlist?list=PLF206E906175C7E07)
+- [Geekific](https://youtube.com/playlist?list=PLlsmxlJgn1HJpa28yHzkBmUY-Ty71ZUGc)
+- [Head first design patterns book](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
